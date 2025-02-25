@@ -1,0 +1,26 @@
+{
+  "name": "subhamsarkar",
+  "displayName": "RedWhiteBlue Theme",
+  "description": "Red, white, and blue color theme for VS Code",
+  "publisher": "subhamsarkar",
+  "version": "1.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hghyhghy/vscodetheme.git"
+  },
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RedWhiteBlue Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RedWhiteBlue Theme-color-theme.json"
+      }
+    ]
+  }
+}
