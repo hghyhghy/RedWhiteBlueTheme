@@ -20,7 +20,7 @@
 		"interface": { "foreground": "#C792EA", "fontStyle": "italic" },
 		"enum": { "foreground": "#FFD700", "fontStyle": "italic" },
 		"namespace": { "foreground": "#4D88FF", "fontStyle": "italic" }
-	  },
+	},
 	"tokenColors": [
 	  {
 		"scope": ["comment"],
@@ -29,6 +29,17 @@
 	  {
 		"scope": ["keyword"],
 		"settings": { "foreground": "#FF4D4D", "fontStyle": "italic" }
+	  },
+	  {
+		"scope": [
+			"keyword.control",
+			"keyword.control.conditional",
+			"keyword.control.loop"
+		],
+		"settings": {
+			"foreground": "#4D88FF",
+			"fontStyle": "bold"
+		}
 	  },
 	  {
 		"scope": ["string"],
