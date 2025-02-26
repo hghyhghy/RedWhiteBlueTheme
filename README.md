@@ -14,3 +14,8 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+SCREENSHOT OF THE THEME 
+
+
+![Screenshot (96)](https://github.com/user-attachments/assets/e09aed55-cb42-4d44-999b-297427fe617f)
